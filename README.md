@@ -33,3 +33,4 @@ Profitability Analysis: Visualized the correlation between discount percentages 
 Geographical Mapping: Integrated map visuals to highlight top-performing states and countries at a glance.
 
 6. Screenshots
+https://github.com/Tushar-Sarate/Marketing_Data_Sales/blob/main/Snap%20of%20Dashboard.png
